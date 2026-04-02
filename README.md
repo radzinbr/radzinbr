@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">Minahs tecnologias</h2>
+<h2 align="left">Minhas tecnologias</h2>
 
 ###
 
